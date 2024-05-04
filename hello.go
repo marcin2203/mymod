@@ -8,3 +8,6 @@ func Hello() {
 func Hello2() {
 	fmt.Println("hello2")
 }
+func Hello3() {
+	fmt.Println("hello3")
+}
